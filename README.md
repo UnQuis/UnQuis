@@ -63,7 +63,7 @@
 
 ## Контакты
 
-[![Telegram](https://img.shields.io/badge/Telegram-2AABEE?logo=telegram&logoColor=white)](https://t.me/UnQuis)
+[![Telegram](https://img.shields.io/badge/Telegram-2AABEE?logo=telegram&logoColor=white)](https://t.me/AlexanderFonQuasar)
 [![GitHub](https://img.shields.io/badge/GitHub-UnQuis-181717?logo=github&logoColor=white)](https://github.com/UnQuis)
 
 ---
